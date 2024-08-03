@@ -47,10 +47,3 @@ Feel free to explore and make yourself at home. 🎉😃
 Best regards,
 IVO LEAL
 
-
-
-# IVODEV     
-
-este é o novo repositorio do IVODEV , possiu nesse projeto un estudo pratico de templates html, bibliotecas e programas JavaScrit e estilo CSS gerando valor e conhecimento em m
-inha pagina de apresentacmção pessoal . Vou lsnçando todos os resultados alcançados. obr
-igado
