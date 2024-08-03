@@ -18,8 +18,7 @@ Seja bem-vindo e sinta-se à vontade para explorar. 🎉😃
 
 - **Email**: lealivo31@gmail.com
 - **GitHub**: @Mcgratidão
-
-Atenciosamente,
+Atenciosamente
 IVO LEAL
 
 ---
@@ -50,6 +49,8 @@ IVO LEAL
 
 
 
-# IVODEV                                                                                                                                                                        este é o novo repositorio do IVODEV , possiu nesse projeto un estudo pratico de templates html, bibliotecas e programas JavaScrit e estilo CSS gerando valor e conhecimento em m
+# IVODEV     
+
+este é o novo repositorio do IVODEV , possiu nesse projeto un estudo pratico de templates html, bibliotecas e programas JavaScrit e estilo CSS gerando valor e conhecimento em m
 inha pagina de apresentacmção pessoal . Vou lsnçando todos os resultados alcançados. obr
 igado
