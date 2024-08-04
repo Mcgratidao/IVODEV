@@ -1,4 +1,4 @@
-### IVODEV ☀️🌟
+### IVODEV 🏆🌟
 
 *Seja Bem-Vindo ao repositório do projeto IVODEV!* 😆
 
@@ -28,7 +28,7 @@ IVO LEAL
 
 ---
 
-### IVODEV ☀️🌟
+### IVODEV 🏆🌟
 
 *Welcome to the IVODEV project repository!* 😆
 
