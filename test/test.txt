@@ -1,0 +1,78 @@
+function sendSheetDataByEmail() {
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = ss.getSheetByName('RESULTADO');
+
+  if (!sheet) {
+    Logger.log("A aba 'RESULTADO' não foi encontrada!");
+    return;
+  }
+
+  var range = sheet.getRange('B2:E18');
+  var data = range.getValues();
+
+  var htmlTable = '<table border="1" style="border-collapse: collapse;">';
+  data.forEach(function(row) {
+    htmlTable += '<tr>';
+    row.forEach(function(cell) {
+      htmlTable += '<td style="padding: 5px;">' + cell + '</td>';
+    });
+    htmlTable += '</tr>';
+  });
+  htmlTable += '</table>';
+
+  var emailAddress = 'lealivo31@gmail.com';
+  var subject = 'Dados da Planilha';
+  var body = 'Aqui estão os dados da planilha: <br><br>' + htmlTable;
+
+  MailApp.sendEmail({
+    to: emailAddress,
+    subject: subject,
+    htmlBody: body
+  });
+
+  Logger.log('Email enviado para ' + emailAddress);
+}
+
+
+
+
+
+___________
+
+
+
+
+function sendSheetDataByEmail() {
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = ss.getSheetByName('RESULTADO');
+
+  if (!sheet) {
+    Logger.log("A aba 'RESULTADO' não foi encontrada!");
+    return;
+  }
+
+  var range = sheet.getRange('B2:E18');
+  var data = range.getValues();
+
+  var htmlTable = '<table border="1" style="border-collapse: collapse;">';
+  data.forEach(function(row) {
+    htmlTable += '<tr>';
+    row.forEach(function(cell) {
+      htmlTable += '<td style="padding: 5px;">' + cell + '</td>';
+    });
+    htmlTable += '</tr>';
+  });
+  htmlTable += '</table>';
+
+  var emailAddress = 'lealivo31@gmail.com';
+  var subject = 'Dados da Planilha';
+  var body = 'Aqui estão os dados da planilha: <br><br>' + htmlTable;
+
+  MailApp.sendEmail({
+    to: emailAddress,
+    subject: subject,
+    htmlBody: body
+  });
+
+  Logger.log('Email enviado para ' + emailAddress);
+}
