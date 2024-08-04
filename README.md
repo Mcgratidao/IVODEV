@@ -16,10 +16,15 @@ Seja bem-vindo e sinta-se à vontade para explorar. 🎉😃
 
 #### Fique Conectado 🌐💻
 
-- **Email**: lealivo31@gmail.com
-- **GitHub**: @Mcgratidão
-Atenciosamente
+- **Email**: [lealivo31@gmail.com](lealivo31@gmail.com)
+- **LinkedIn**: [Ivo Leal ados Reis](https://www.linkedin.com/in/ivo-leal-dos-reis-3129311b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Instagram**: [@ivo_leal_dos_reis](https://www.instagram.com/ivo_leal_dos_reis?igsh=YzFrOWJsM2pyZ3k1)
+
+Best regards,
 IVO LEAL
+
+
+[https://mcgratidao.github.io/IVODEV/docs](https://mcgratidao.github.io/IVODEV/docs)
 
 ---
 
@@ -41,7 +46,7 @@ Feel free to explore and make yourself at home. 🎉😃
 
 #### Stay Connected 🌐💻
 
-- **Email**: [lealivo31@gmail.com](mailto: lealivo31@gmail.com)
+- **Email**: [lealivo31@gmail.com](lealivo31@gmail.com)
 - **LinkedIn**: [Ivo Leal ados Reis](https://www.linkedin.com/in/ivo-leal-dos-reis-3129311b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Instagram**: [@ivo_leal_dos_reis](https://www.instagram.com/ivo_leal_dos_reis?igsh=YzFrOWJsM2pyZ3k1)
 
