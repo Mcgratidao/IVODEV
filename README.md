@@ -24,7 +24,7 @@ Atenciosamente,
 IVO LEAL
 
 
-[https://mcgratidao.github.io/IVODEV/docs](https://mcgratidao.github.io/IVODEV/docs)
+[Meu Projeto](https://mcgratidao.github.io/IVODEV/docs)
 
 ---
 
@@ -54,4 +54,4 @@ Best regards,
 IVO LEAL
 
 
-[https://mcgratidao.github.io/IVODEV/docs](https://mcgratidao.github.io/IVODEV/docs)
+[My Project](https://mcgratidao.github.io/IVODEV/docs)
