@@ -20,7 +20,7 @@ Seja bem-vindo e sinta-se à vontade para explorar. 🎉😃
 - **LinkedIn**: [Ivo Leal ados Reis](https://www.linkedin.com/in/ivo-leal-dos-reis-3129311b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Instagram**: [@ivo_leal_dos_reis](https://www.instagram.com/ivo_leal_dos_reis?igsh=YzFrOWJsM2pyZ3k1)
 
-Best regards,
+Atenciosamente,
 IVO LEAL
 
 
