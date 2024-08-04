@@ -49,4 +49,4 @@ Best regards,
 IVO LEAL
 
 
-[https://mcgratidao.github.io/IVODEV/](https://mcgratidao.github.io/IVODEV/)
+[https://mcgratidao.github.io/IVODEV/docs](https://mcgratidao.github.io/IVODEV/docs)
