@@ -32,7 +32,7 @@ IVO LEAL
 
 *Welcome to the IVODEV project repository!* 😆
 
-This is a space for creativity and technology. 🤓🧑🏻‍💻💻
+This is a space for creativity and technology. 🤓💻
 
 Here, we are focused on developing innovative solutions that always push the future forward. 🚀🎉
 
